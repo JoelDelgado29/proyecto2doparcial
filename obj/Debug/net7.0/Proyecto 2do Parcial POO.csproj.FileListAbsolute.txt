@@ -1,0 +1,14 @@
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\bin\Debug\net7.0\Proyecto 2do Parcial POO.exe
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\bin\Debug\net7.0\Proyecto 2do Parcial POO.deps.json
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\bin\Debug\net7.0\Proyecto 2do Parcial POO.runtimeconfig.json
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\bin\Debug\net7.0\Proyecto 2do Parcial POO.dll
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\bin\Debug\net7.0\Proyecto 2do Parcial POO.pdb
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.AssemblyInfoInputs.cache
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.AssemblyInfo.cs
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.csproj.CoreCompileInputs.cache
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.dll
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\refint\Proyecto 2do Parcial POO.dll
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.pdb
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\Proyecto 2do Parcial POO.genruntimeconfig.cache
+C:\Users\keive\OneDrive\Escritorio\Proyecto 2do Parcial POO\obj\Debug\net7.0\ref\Proyecto 2do Parcial POO.dll
